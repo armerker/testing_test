@@ -1,0 +1,14 @@
+
+venv/
+.venv/
+
+.idea/
+*.iml
+
+__pycache__/
+*.pyc
+*.pyo
+
+Thumbs.db
+
+*.log
